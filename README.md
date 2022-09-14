@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jjdugan
+- 👀 I’m interested in Node, AWS, Azure, Java (newer releases)
+- 🌱 I’m currently learning ...Docker / Kubernetes
+- 📫 How to reach me : jdugan@gmail.com
